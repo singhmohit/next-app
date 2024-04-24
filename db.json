@@ -1,0 +1,28 @@
+{
+  "product": [
+    {
+      "id": "2",
+      "price": "$200",
+      "name": "samsung-testing",
+      "description": "best androin phone"
+    },
+    {
+      "id": "3",
+      "price": "$4000",
+      "name": "oppo",
+      "description": "best androin phone"
+    },
+    {
+      "id": "4",
+      "price": "$600",
+      "name": "Apple",
+      "description": "IOS phone"
+    },
+    {
+      "id": "12",
+      "price": "$100",
+      "name": "phonevv",
+      "description": "china"
+    }
+  ]
+}
